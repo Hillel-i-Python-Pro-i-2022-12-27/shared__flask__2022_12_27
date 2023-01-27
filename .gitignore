@@ -166,3 +166,5 @@ files_output/*
 
 db/*
 !db/.gitkeep
+
+docker-compose.override.yml
